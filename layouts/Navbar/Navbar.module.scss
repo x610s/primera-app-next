@@ -1,0 +1,13 @@
+.navbar{
+    .navbar__item{
+        margin: 30px;
+        color: dodgerblue;
+        font: 20px;
+        padding-top: 2rem;
+    }
+
+    .navbar__item--disabled{
+        background-color: red;
+        color: gray;
+    }
+}
